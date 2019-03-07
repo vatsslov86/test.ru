@@ -37,7 +37,7 @@ if ($input_password == $password) {
 }
 else
 {echo "Password error!";}
-
+(
 
 //$mas = array();
 //$mas['id']='SELECT * FROM Gorod';
@@ -58,7 +58,7 @@ else
 //while ($с++ <9)
 //    echo $с;
 //sleep(1);
-////echo date('h:i:s') . "\n";
+echo date('h:i:s') . "\n";
 
 //for ($i = 1; $i < 10+1; $i++)
 //{
